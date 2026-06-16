@@ -28,6 +28,15 @@ This project focuses on identifying and analyzing SQL Injection vulnerabilities 
 - Penetration Testing
 - Vulnerability Assessment
 - Secure Coding Practices
+- 
+## Project Files
+- Project Report
+- Testing Screenshots
+- Documentation
 
 ## Author
+
 Kurmapu Tanmayi
+
+B.Tech CSE Student
+
